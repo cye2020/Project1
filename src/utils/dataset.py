@@ -23,6 +23,8 @@ PANDAS_KWARGS = {
         'dtype': {'SEASON_ID': str}
     },
     'games': {
+        'parse_dates': ['GAME_DATE_EST'],
+        'date_format': '%Y-%m-%d',
         # 메모리 절약
         # 'usecols': ['필요한', '컬럼만'],
         # 메모리 효율적 읽기
