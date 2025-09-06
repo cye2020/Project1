@@ -20,6 +20,7 @@ PANDAS_KWARGS = {
         'parse_dates': ['STANDINGSDATE'],
         'date_format': '%Y-%m-%d',
         'memory_map': True,
+        'dtype': {'SEASON_ID': str}
     },
     'games': {
         # 메모리 절약
