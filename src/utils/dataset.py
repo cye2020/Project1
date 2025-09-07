@@ -34,7 +34,7 @@ PANDAS_KWARGS = {
 
 
 def load_dataset(name:str, test:bool=False) -> pd.DataFrame:
-    kwargs = PANDAS_KWARGS[name]
+    kwargs = PANDAS_KWARGS[name].copy()
     # 테스트용 일부만 읽기
     if test:
         kwargs['nrows'] = 10000
