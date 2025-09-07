@@ -5,9 +5,20 @@ sys.path.append(str(Path(__file__).parent.parent))
 
 # 서드파티 라이브러리  
 import pandas as pd
+import numpy as np
 
 # 로컬 모듈
 from config import DATA_DIR
+
+
+def convert_minute(val):
+    if pd.isna(val) or val == '':          # NaN 값 처리
+        return 0
+    if isinstance(val, str) and ':' in val:   # "MM:SS" 형식
+        m, s = val.split(':')
+        return int(float(m)) + int(s)/60
+    else:
+        return int(float(val))     # 이미 숫자인 경우
 
 
 # dataset을 읽을 때 넣는 키워드
@@ -15,6 +26,7 @@ PANDAS_KWARGS = {
     'games_details': {
         'dtype': {'NICKNAME': str},
         'memory_map': True,
+        'converters': {'MIN': convert_minute},
     },
     'ranking': {
         'parse_dates': ['STANDINGSDATE'],

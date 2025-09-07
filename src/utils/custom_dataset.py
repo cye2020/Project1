@@ -1,4 +1,5 @@
 from typing import List, Dict
+from collections import defaultdict
 
 import pandas as pd
 
@@ -31,10 +32,8 @@ PANDAS_KWARGS = {
 
 USELESS_COLUMNS = {
     'games_details': ['TEAM_ABBREVIATION', 'TEAM_CITY', 'NICKNAME'],
-    'ranking': {
-    },
-    'games': {
-    }
+    'ranking': [],
+    'games': []
 }
 
 
@@ -44,7 +43,7 @@ class CustomDataset:
         self.data: pd.DataFrame = None
         self.version: Dict[str, pd.DataFrame] = {}
         self.version_msg: List[str] = []
-        self.count = {'drop': 0}
+        self.count = defaultdict(int)
     
     def load(self, test=False) -> pd.DataFrame:
         kwargs = PANDAS_KWARGS[self.name].copy()
@@ -58,15 +57,18 @@ class CustomDataset:
         
         return self.data
     
-    def preprocess(self, drop=True) -> pd.DataFrame:
-        if drop:
-            drop_cols = USELESS_COLUMNS[self.name]
-            self.data = self.data.drop(columns=drop_cols)
-            cnt = self.count['drop']
-            msg = f'drop_v{cnt}'
-            self.version_msg.append(msg)
-            self.version[msg] = self.data.copy()
-            self.count['drop'] += 1
-        
+    def drop(self) -> pd.DataFrame:
+        drop_cols = USELESS_COLUMNS[self.name]
+        self.data = self.data.drop(columns=drop_cols)
+        self.save_version(self.data, 'drop')
         return self.data
-            
+    
+    def save_version(self, data, msg):
+        cnt = self.count['msg']
+        msg = f'{msg}_v{cnt}'
+        self.version_msg.append(msg)
+        self.version[msg] = data.copy()
+        self.count[msg] += 1
+        
+    def preprocess(self) -> pd.DataFrame:
+        return self.data
