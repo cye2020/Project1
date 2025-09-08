@@ -43,26 +43,32 @@ PANDAS_KWARGS = {
         'memory_map': True,
     },
     'games_details_pre': {
+        'dtype': {'START_POSITION': 'category', 'TEAM': 'category', 'TEAM_LVL': 'category'},
         'memory_map': True,
         'index_col': 'DATE'
     },
     'games_details_regular': {
+        'dtype': {'START_POSITION': 'category', 'TEAM': 'category', 'TEAM_LVL': 'category'},
         'memory_map': True,
         'index_col': 'DATE'
     },
     'games_pre': {
+        'dtype': {'HOME_TEAM': 'category', 'HOME_TEAM_LVL': 'category', 'VISITOR_TEAM': 'category', 'VISITOR_TEAM_LVL': 'category'},
         'memory_map': True,
         'index_col': 'DATE'
     },
     'games_regular': {
+        'dtype': {'HOME_TEAM': 'category', 'HOME_TEAM_LVL': 'category', 'VISITOR_TEAM': 'category', 'VISITOR_TEAM_LVL': 'category'},
         'memory_map': True,
         'index_col': 'DATE'
     },
     'ranking_pre': {
+        'dtype': {'CONFERENCE': 'category', 'TEAM': 'category', 'TEAM_LVL': 'category'},
         'memory_map': True,
         'index_col': 'DATE'
     },
     'ranking_regular': {
+        'dtype': {'CONFERENCE': 'category', 'TEAM': 'category', 'TEAM_LVL': 'category'},
         'memory_map': True,
         'index_col': 'DATE'
     }
