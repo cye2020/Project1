@@ -41,14 +41,41 @@ PANDAS_KWARGS = {
         # 'usecols': ['필요한', '컬럼만'],
         # 메모리 효율적 읽기
         'memory_map': True,
+    },
+    'games_details_pre': {
+        'memory_map': True,
+        'index_col': 'DATE'
+    },
+    'games_details_regular': {
+        'memory_map': True,
+        'index_col': 'DATE'
+    },
+    'games_pre': {
+        'memory_map': True,
+        'index_col': 'DATE'
+    },
+    'games_regular': {
+        'memory_map': True,
+        'index_col': 'DATE'
+    },
+    'ranking_pre': {
+        'memory_map': True,
+        'index_col': 'DATE'
+    },
+    'ranking_regular': {
+        'memory_map': True,
+        'index_col': 'DATE'
     }
 }
 
 
-def load_dataset(name:str, test:bool=False) -> pd.DataFrame:
+def load_dataset(name:str, season: int=None, test:bool=False) -> pd.DataFrame:
     kwargs = PANDAS_KWARGS[name].copy()
+    dir = DATA_DIR
     # 테스트용 일부만 읽기
     if test:
         kwargs['nrows'] = 10000
-    data = pd.read_csv(DATA_DIR / f'{name}.csv', **kwargs)
+    if season:
+        dir = dir / f'{season}'
+    data = pd.read_csv(dir / f'{name}.csv', **kwargs)
     return data
