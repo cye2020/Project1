@@ -11,7 +11,7 @@ DATE,SEASON_ID,CONFERENCE,TEAM,TEAM_LVL,G,W,L,W_PCT,HOME_RECORD,ROAD_RECORD
 2019-10-04,2019,West,Denver,상위팀,0,0,0,0.0,0-0,0-0
 2019-10-04,2019,West,Dallas,중위팀,0,0,0,0.0,0-0,0-0
 2019-10-04,2019,West,Sacramento,중위팀,1,0,1,0.0,0-1,0-0
-2019-10-04,2019,West,L.A. Clippers,,1,0,1,0.0,0-1,0-0
+2019-10-04,2019,West,L.A. Clippers,상위팀,1,0,1,0.0,0-1,0-0
 2019-10-04,2019,West,Houston,하위팀,2,2,0,1.0,1-0,1-0
 2019-10-04,2019,East,Toronto,중위팀,0,0,0,0.0,0-0,0-0
 2019-10-04,2019,West,San Antonio,중위팀,0,0,0,0.0,0-0,0-0
@@ -37,7 +37,7 @@ DATE,SEASON_ID,CONFERENCE,TEAM,TEAM_LVL,G,W,L,W_PCT,HOME_RECORD,ROAD_RECORD
 2019-10-05,2019,West,Utah,상위팀,1,1,0,1.0,1-0,0-0
 2019-10-05,2019,West,Sacramento,중위팀,2,0,2,0.0,0-1,0-1
 2019-10-05,2019,West,Golden State,중위팀,1,0,1,0.0,0-1,0-0
-2019-10-05,2019,West,L.A. Clippers,,1,0,1,0.0,0-1,0-0
+2019-10-05,2019,West,L.A. Clippers,상위팀,1,0,1,0.0,0-1,0-0
 2019-10-05,2019,East,Toronto,중위팀,0,0,0,0.0,0-0,0-0
 2019-10-05,2019,West,San Antonio,중위팀,1,0,1,0.0,0-1,0-0
 2019-10-05,2019,West,Portland,중위팀,0,0,0,0.0,0-0,0-0
@@ -76,7 +76,7 @@ DATE,SEASON_ID,CONFERENCE,TEAM,TEAM_LVL,G,W,L,W_PCT,HOME_RECORD,ROAD_RECORD
 2019-10-06,2019,East,Washington,중위팀,0,0,0,0.0,0-0,0-0
 2019-10-06,2019,West,Memphis,중위팀,1,1,0,1.0,1-0,0-0
 2019-10-06,2019,West,Utah,상위팀,1,1,0,1.0,1-0,0-0
-2019-10-06,2019,West,L.A. Clippers,,2,1,1,0.5,1-1,0-0
+2019-10-06,2019,West,L.A. Clippers,상위팀,2,1,1,0.5,1-1,0-0
 2019-10-06,2019,East,Boston,중위팀,1,1,0,1.0,1-0,0-0
 2019-10-06,2019,West,Sacramento,중위팀,2,0,2,0.0,0-1,0-1
 2019-10-06,2019,West,Golden State,중위팀,1,0,1,0.0,0-1,0-0
@@ -109,7 +109,7 @@ DATE,SEASON_ID,CONFERENCE,TEAM,TEAM_LVL,G,W,L,W_PCT,HOME_RECORD,ROAD_RECORD
 2019-10-07,2019,West,L.A. Lakers,중위팀,1,1,0,1.0,0-0,1-0
 2019-10-07,2019,West,New Orleans,중위팀,1,1,0,1.0,0-0,1-0
 2019-10-07,2019,West,Utah,상위팀,1,1,0,1.0,1-0,0-0
-2019-10-07,2019,West,L.A. Clippers,,2,1,1,0.5,1-1,0-0
+2019-10-07,2019,West,L.A. Clippers,상위팀,2,1,1,0.5,1-1,0-0
 2019-10-07,2019,West,Sacramento,중위팀,2,0,2,0.0,0-1,0-1
 2019-10-07,2019,West,Golden State,중위팀,1,0,1,0.0,0-1,0-0
 2019-10-07,2019,West,San Antonio,중위팀,1,0,1,0.0,0-1,0-0
@@ -141,7 +141,7 @@ DATE,SEASON_ID,CONFERENCE,TEAM,TEAM_LVL,G,W,L,W_PCT,HOME_RECORD,ROAD_RECORD
 2019-10-08,2019,West,Dallas,중위팀,1,0,1,0.0,0-0,0-1
 2019-10-08,2019,West,San Antonio,중위팀,2,0,2,0.0,0-1,0-1
 2019-10-08,2019,West,Sacramento,중위팀,2,0,2,0.0,0-1,0-1
-2019-10-08,2019,West,L.A. Clippers,,2,1,1,0.5,1-1,0-0
+2019-10-08,2019,West,L.A. Clippers,상위팀,2,1,1,0.5,1-1,0-0
 2019-10-08,2019,West,Houston,하위팀,3,2,1,0.667,1-0,1-1
 2019-10-08,2019,West,Utah,상위팀,1,1,0,1.0,1-0,0-0
 2019-10-08,2019,West,Oklahoma City,하위팀,1,1,0,1.0,1-0,0-0
@@ -176,7 +176,7 @@ DATE,SEASON_ID,CONFERENCE,TEAM,TEAM_LVL,G,W,L,W_PCT,HOME_RECORD,ROAD_RECORD
 2019-10-09,2019,East,Washington,중위팀,2,1,1,0.5,1-1,0-0
 2019-10-09,2019,West,Phoenix,상위팀,1,1,0,1.0,1-0,0-0
 2019-10-09,2019,West,Houston,하위팀,3,2,1,0.667,1-0,1-1
-2019-10-09,2019,West,L.A. Clippers,,2,1,1,0.5,1-1,0-0
+2019-10-09,2019,West,L.A. Clippers,상위팀,2,1,1,0.5,1-1,0-0
 2019-10-09,2019,West,Memphis,중위팀,2,2,0,1.0,2-0,0-0
 2019-10-09,2019,East,Atlanta,중위팀,2,0,2,0.0,0-2,0-0
 2019-10-10,2019,West,Denver,상위팀,2,2,0,1.0,0-0,2-0
@@ -188,7 +188,7 @@ DATE,SEASON_ID,CONFERENCE,TEAM,TEAM_LVL,G,W,L,W_PCT,HOME_RECORD,ROAD_RECORD
 2019-10-10,2019,West,L.A. Lakers,중위팀,2,1,1,0.5,0-1,1-0
 2019-10-10,2019,West,Phoenix,상위팀,2,1,1,0.5,1-0,0-1
 2019-10-10,2019,West,Utah,상위팀,2,1,1,0.5,1-0,0-1
-2019-10-10,2019,West,L.A. Clippers,,3,1,2,0.3329999999999999,1-2,0-0
+2019-10-10,2019,West,L.A. Clippers,상위팀,3,1,2,0.3329999999999999,1-2,0-0
 2019-10-10,2019,West,Sacramento,중위팀,3,1,2,0.3329999999999999,1-1,0-1
 2019-10-10,2019,West,Dallas,중위팀,2,0,2,0.0,0-0,0-2
 2019-10-10,2019,West,Minnesota,중위팀,2,0,2,0.0,0-0,0-2
@@ -209,7 +209,7 @@ DATE,SEASON_ID,CONFERENCE,TEAM,TEAM_LVL,G,W,L,W_PCT,HOME_RECORD,ROAD_RECORD
 2019-10-10,2019,East,Brooklyn,중위팀,2,2,0,1.0,1-0,1-0
 2019-10-10,2019,East,Orlando,하위팀,3,3,0,1.0,0-0,3-0
 2019-10-10,2019,East,Boston,중위팀,1,1,0,1.0,1-0,0-0
-2019-10-11,2019,West,L.A. Clippers,,3,1,2,0.3329999999999999,1-2,0-0
+2019-10-11,2019,West,L.A. Clippers,상위팀,3,1,2,0.3329999999999999,1-2,0-0
 2019-10-11,2019,West,Dallas,중위팀,3,0,3,0.0,0-1,0-2
 2019-10-11,2019,West,Utah,상위팀,3,1,2,0.3329999999999999,1-0,0-2
 2019-10-11,2019,West,Sacramento,중위팀,3,1,2,0.3329999999999999,1-1,0-1
@@ -263,7 +263,7 @@ DATE,SEASON_ID,CONFERENCE,TEAM,TEAM_LVL,G,W,L,W_PCT,HOME_RECORD,ROAD_RECORD
 2019-10-12,2019,West,Phoenix,상위팀,3,2,1,0.667,1-0,1-1
 2019-10-12,2019,West,Oklahoma City,하위팀,2,2,0,1.0,2-0,0-0
 2019-10-12,2019,West,L.A. Lakers,중위팀,3,1,2,0.3329999999999999,0-1,1-1
-2019-10-12,2019,West,L.A. Clippers,,3,1,2,0.3329999999999999,1-2,0-0
+2019-10-12,2019,West,L.A. Clippers,상위팀,3,1,2,0.3329999999999999,1-2,0-0
 2019-10-12,2019,West,Portland,중위팀,3,1,2,0.3329999999999999,1-2,0-0
 2019-10-12,2019,West,Sacramento,중위팀,3,1,2,0.3329999999999999,1-1,0-1
 2019-10-12,2019,West,San Antonio,중위팀,2,0,2,0.0,0-1,0-1
@@ -285,7 +285,7 @@ DATE,SEASON_ID,CONFERENCE,TEAM,TEAM_LVL,G,W,L,W_PCT,HOME_RECORD,ROAD_RECORD
 2019-10-13,2019,West,Minnesota,중위팀,3,1,2,0.3329999999999999,1-0,0-2
 2019-10-13,2019,West,L.A. Lakers,중위팀,3,1,2,0.3329999999999999,0-1,1-1
 2019-10-13,2019,West,Golden State,중위팀,2,1,1,0.5,1-1,0-0
-2019-10-13,2019,West,L.A. Clippers,,4,2,2,0.5,2-2,0-0
+2019-10-13,2019,West,L.A. Clippers,상위팀,4,2,2,0.5,2-2,0-0
 2019-10-13,2019,West,Phoenix,상위팀,3,2,1,0.667,1-0,1-1
 2019-10-13,2019,West,San Antonio,중위팀,3,0,3,0.0,0-2,0-1
 2019-10-13,2019,West,Houston,하위팀,4,3,1,0.75,2-0,1-1
@@ -306,7 +306,7 @@ DATE,SEASON_ID,CONFERENCE,TEAM,TEAM_LVL,G,W,L,W_PCT,HOME_RECORD,ROAD_RECORD
 2019-10-14,2019,West,Memphis,중위팀,3,2,1,0.667,2-1,0-0
 2019-10-14,2019,West,Oklahoma City,하위팀,3,2,1,0.667,2-0,0-1
 2019-10-14,2019,West,L.A. Lakers,중위팀,4,2,2,0.5,1-1,1-1
-2019-10-14,2019,West,L.A. Clippers,,4,2,2,0.5,2-2,0-0
+2019-10-14,2019,West,L.A. Clippers,상위팀,4,2,2,0.5,2-2,0-0
 2019-10-14,2019,West,Phoenix,상위팀,4,2,2,0.5,1-1,1-1
 2019-10-14,2019,West,Sacramento,중위팀,4,2,2,0.5,1-1,1-1
 2019-10-14,2019,West,Golden State,중위팀,3,1,2,0.3329999999999999,1-1,0-1
@@ -354,7 +354,7 @@ DATE,SEASON_ID,CONFERENCE,TEAM,TEAM_LVL,G,W,L,W_PCT,HOME_RECORD,ROAD_RECORD
 2019-10-15,2019,West,Phoenix,상위팀,4,2,2,0.5,1-1,1-1
 2019-10-15,2019,West,Golden State,중위팀,3,1,2,0.3329999999999999,1-1,0-1
 2019-10-15,2019,West,Minnesota,중위팀,4,2,2,0.5,1-0,1-2
-2019-10-15,2019,West,L.A. Clippers,,4,2,2,0.5,2-2,0-0
+2019-10-15,2019,West,L.A. Clippers,상위팀,4,2,2,0.5,2-2,0-0
 2019-10-15,2019,West,L.A. Lakers,중위팀,4,2,2,0.5,1-1,1-1
 2019-10-15,2019,West,Oklahoma City,하위팀,3,2,1,0.667,2-0,0-1
 2019-10-15,2019,West,Memphis,중위팀,3,2,1,0.667,2-1,0-0
@@ -379,7 +379,7 @@ DATE,SEASON_ID,CONFERENCE,TEAM,TEAM_LVL,G,W,L,W_PCT,HOME_RECORD,ROAD_RECORD
 2019-10-16,2019,West,New Orleans,중위팀,4,4,0,1.0,1-0,3-0
 2019-10-16,2019,West,Houston,하위팀,5,3,2,0.6,2-1,1-1
 2019-10-16,2019,West,Sacramento,중위팀,5,3,2,0.6,2-1,1-1
-2019-10-16,2019,West,L.A. Clippers,,4,2,2,0.5,2-2,0-0
+2019-10-16,2019,West,L.A. Clippers,상위팀,4,2,2,0.5,2-2,0-0
 2019-10-16,2019,West,Minnesota,중위팀,4,2,2,0.5,1-0,1-2
 2019-10-16,2019,West,Oklahoma City,하위팀,4,2,2,0.5,2-1,0-1
 2019-10-16,2019,West,L.A. Lakers,중위팀,5,3,2,0.6,2-1,1-1
@@ -403,7 +403,7 @@ DATE,SEASON_ID,CONFERENCE,TEAM,TEAM_LVL,G,W,L,W_PCT,HOME_RECORD,ROAD_RECORD
 2019-10-17,2019,West,Golden State,중위팀,4,1,3,0.25,1-1,0-2
 2019-10-17,2019,East,New York,중위팀,3,1,2,0.3329999999999999,0-2,1-0
 2019-10-17,2019,West,Minnesota,중위팀,5,2,3,0.4,1-0,1-3
-2019-10-17,2019,West,L.A. Clippers,,5,2,3,0.4,2-3,0-0
+2019-10-17,2019,West,L.A. Clippers,상위팀,5,2,3,0.4,2-3,0-0
 2019-10-17,2019,West,Dallas,중위팀,5,2,3,0.4,1-1,1-2
 2019-10-17,2019,West,Phoenix,상위팀,4,2,2,0.5,1-1,1-1
 2019-10-17,2019,East,Chicago,중위팀,5,2,3,0.4,1-2,1-1
@@ -434,7 +434,7 @@ DATE,SEASON_ID,CONFERENCE,TEAM,TEAM_LVL,G,W,L,W_PCT,HOME_RECORD,ROAD_RECORD
 2019-10-18,2019,West,Portland,중위팀,5,2,3,0.4,1-2,1-1
 2019-10-18,2019,East,Charlotte,중위팀,5,1,4,0.2,0-3,1-1
 2019-10-18,2019,West,Minnesota,중위팀,5,2,3,0.4,1-0,1-3
-2019-10-18,2019,West,L.A. Clippers,,5,2,3,0.4,2-3,0-0
+2019-10-18,2019,West,L.A. Clippers,상위팀,5,2,3,0.4,2-3,0-0
 2019-10-18,2019,West,Golden State,중위팀,5,2,3,0.4,2-1,0-2
 2019-10-18,2019,West,Dallas,중위팀,5,2,3,0.4,1-1,1-2
 2019-10-18,2019,West,Oklahoma City,하위팀,4,2,2,0.5,2-1,0-1
@@ -462,7 +462,7 @@ DATE,SEASON_ID,CONFERENCE,TEAM,TEAM_LVL,G,W,L,W_PCT,HOME_RECORD,ROAD_RECORD
 2020-07-22,2019,East,Orlando,하위팀,1,0,1,0.0,0-0,0-1
 2020-07-22,2019,East,Charlotte,중위팀,0,0,0,0.0,0-0,0-0
 2020-07-22,2019,West,New Orleans,중위팀,1,1,0,1.0,0-0,1-0
-2020-07-22,2019,West,L.A. Clippers,,1,1,0,1.0,1-0,0-0
+2020-07-22,2019,West,L.A. Clippers,상위팀,1,1,0,1.0,1-0,0-0
 2020-07-22,2019,West,Sacramento,중위팀,1,0,1,0.0,0-0,0-1
 2020-07-22,2019,West,Dallas,중위팀,0,0,0,0.0,0-0,0-0
 2020-07-22,2019,West,Golden State,중위팀,0,0,0,0.0,0-0,0-0
@@ -492,7 +492,7 @@ DATE,SEASON_ID,CONFERENCE,TEAM,TEAM_LVL,G,W,L,W_PCT,HOME_RECORD,ROAD_RECORD
 2020-07-23,2019,West,L.A. Lakers,중위팀,1,0,1,0.0,0-1,0-0
 2020-07-23,2019,West,Phoenix,상위팀,1,1,0,1.0,0-0,1-0
 2020-07-23,2019,West,New Orleans,중위팀,1,1,0,1.0,0-0,1-0
-2020-07-23,2019,West,L.A. Clippers,,1,1,0,1.0,1-0,0-0
+2020-07-23,2019,West,L.A. Clippers,상위팀,1,1,0,1.0,1-0,0-0
 2020-07-23,2019,West,Denver,상위팀,1,1,0,1.0,1-0,0-0
 2020-07-23,2019,West,Dallas,중위팀,1,1,0,1.0,0-0,1-0
 2020-07-23,2019,East,Chicago,중위팀,0,0,0,0.0,0-0,0-0
@@ -532,7 +532,7 @@ DATE,SEASON_ID,CONFERENCE,TEAM,TEAM_LVL,G,W,L,W_PCT,HOME_RECORD,ROAD_RECORD
 2020-07-24,2019,East,Miami,상위팀,1,1,0,1.0,1-0,0-0
 2020-07-24,2019,East,Indiana,중위팀,1,1,0,1.0,1-0,0-0
 2020-07-24,2019,West,Denver,상위팀,1,1,0,1.0,1-0,0-0
-2020-07-24,2019,West,L.A. Clippers,,1,1,0,1.0,1-0,0-0
+2020-07-24,2019,West,L.A. Clippers,상위팀,1,1,0,1.0,1-0,0-0
 2020-07-24,2019,West,Oklahoma City,하위팀,1,1,0,1.0,0-0,1-0
 2020-07-24,2019,West,Phoenix,상위팀,1,1,0,1.0,0-0,1-0
 2020-07-24,2019,West,Houston,하위팀,1,0,1,0.0,0-0,0-1
@@ -540,7 +540,7 @@ DATE,SEASON_ID,CONFERENCE,TEAM,TEAM_LVL,G,W,L,W_PCT,HOME_RECORD,ROAD_RECORD
 2020-07-24,2019,East,Milwaukee,상위팀,1,1,0,1.0,1-0,0-0
 2020-07-24,2019,West,New Orleans,중위팀,1,1,0,1.0,0-0,1-0
 2020-07-25,2019,West,Denver,상위팀,2,1,1,0.5,1-0,0-1
-2020-07-25,2019,West,L.A. Clippers,,2,2,0,1.0,1-0,1-0
+2020-07-25,2019,West,L.A. Clippers,상위팀,2,2,0,1.0,1-0,1-0
 2020-07-25,2019,West,New Orleans,중위팀,2,2,0,1.0,1-0,1-0
 2020-07-25,2019,West,Dallas,중위팀,1,1,0,1.0,0-0,1-0
 2020-07-25,2019,West,Oklahoma City,하위팀,1,1,0,1.0,0-0,1-0
@@ -596,7 +596,7 @@ DATE,SEASON_ID,CONFERENCE,TEAM,TEAM_LVL,G,W,L,W_PCT,HOME_RECORD,ROAD_RECORD
 2020-07-26,2019,East,Boston,중위팀,2,1,1,0.5,1-1,0-0
 2020-07-26,2019,West,New Orleans,중위팀,2,2,0,1.0,1-0,1-0
 2020-07-26,2019,East,Toronto,중위팀,2,2,0,1.0,2-0,0-0
-2020-07-26,2019,West,L.A. Clippers,,2,2,0,1.0,1-0,1-0
+2020-07-26,2019,West,L.A. Clippers,상위팀,2,2,0,1.0,1-0,1-0
 2020-07-26,2019,West,Denver,상위팀,2,1,1,0.5,1-0,0-1
 2020-07-26,2019,East,Orlando,하위팀,2,0,2,0.0,0-1,0-1
 2020-07-27,2019,West,Minnesota,중위팀,0,0,0,0.0,0-0,0-0
@@ -613,7 +613,7 @@ DATE,SEASON_ID,CONFERENCE,TEAM,TEAM_LVL,G,W,L,W_PCT,HOME_RECORD,ROAD_RECORD
 2020-07-27,2019,West,Oklahoma City,하위팀,2,2,0,1.0,1-0,1-0
 2020-07-27,2019,West,New Orleans,중위팀,3,3,0,1.0,1-0,2-0
 2020-07-27,2019,West,Sacramento,중위팀,3,1,2,0.333,0-1,1-1
-2020-07-27,2019,West,L.A. Clippers,,3,2,1,0.667,1-1,1-0
+2020-07-27,2019,West,L.A. Clippers,상위팀,3,2,1,0.667,1-1,1-0
 2020-07-27,2019,East,Washington,중위팀,3,0,3,0.0,0-1,0-2
 2020-07-27,2019,East,Boston,중위팀,2,1,1,0.5,1-1,0-0
 2020-07-27,2019,East,Atlanta,중위팀,0,0,0,0.0,0-0,0-0
@@ -639,7 +639,7 @@ DATE,SEASON_ID,CONFERENCE,TEAM,TEAM_LVL,G,W,L,W_PCT,HOME_RECORD,ROAD_RECORD
 2020-07-28,2019,West,Denver,상위팀,3,1,2,0.333,1-1,0-1
 2020-07-28,2019,West,Utah,상위팀,3,2,1,0.667,1-1,1-0
 2020-07-28,2019,West,Phoenix,상위팀,3,2,1,0.667,1-0,1-1
-2020-07-28,2019,West,L.A. Clippers,,3,2,1,0.667,1-1,1-0
+2020-07-28,2019,West,L.A. Clippers,상위팀,3,2,1,0.667,1-1,1-0
 2020-07-28,2019,West,L.A. Lakers,중위팀,3,2,1,0.667,1-1,1-0
 2020-07-28,2019,West,Houston,하위팀,3,2,1,0.667,1-0,1-1
 2020-07-28,2019,West,Dallas,중위팀,3,2,1,0.667,0-1,2-0
@@ -666,7 +666,7 @@ DATE,SEASON_ID,CONFERENCE,TEAM,TEAM_LVL,G,W,L,W_PCT,HOME_RECORD,ROAD_RECORD
 2020-12-11,2020,West,Golden State,중위팀,0,0,0,0.0,0-0,0-0
 2020-12-11,2020,West,Sacramento,중위팀,1,0,1,0.0,0-0,0-1
 2020-12-11,2020,West,Dallas,중위팀,0,0,0,0.0,0-0,0-0
-2020-12-11,2020,West,L.A. Clippers,,1,0,1,0.0,0-0,0-1
+2020-12-11,2020,West,L.A. Clippers,상위팀,1,0,1,0.0,0-0,0-1
 2020-12-11,2020,West,Portland,중위팀,1,1,0,1.0,1-0,0-0
 2020-12-11,2020,West,L.A. Lakers,중위팀,1,1,0,1.0,1-0,0-0
 2020-12-11,2020,West,Houston,하위팀,1,1,0,1.0,0-0,1-0
@@ -692,7 +692,7 @@ DATE,SEASON_ID,CONFERENCE,TEAM,TEAM_LVL,G,W,L,W_PCT,HOME_RECORD,ROAD_RECORD
 2020-12-12,2020,West,Sacramento,중위팀,1,0,1,0.0,0-0,0-1
 2020-12-12,2020,West,Phoenix,상위팀,1,0,1,0.0,0-0,0-1
 2020-12-12,2020,West,Minnesota,중위팀,1,0,1,0.0,0-1,0-0
-2020-12-12,2020,West,L.A. Clippers,,1,0,1,0.0,0-0,0-1
+2020-12-12,2020,West,L.A. Clippers,상위팀,1,0,1,0.0,0-0,0-1
 2020-12-12,2020,West,Denver,상위팀,1,0,1,0.0,0-0,0-1
 2020-12-12,2020,West,Utah,상위팀,1,1,0,1.0,1-0,0-0
 2020-12-12,2020,West,Portland,중위팀,1,1,0,1.0,1-0,0-0
@@ -721,7 +721,7 @@ DATE,SEASON_ID,CONFERENCE,TEAM,TEAM_LVL,G,W,L,W_PCT,HOME_RECORD,ROAD_RECORD
 2020-12-12,2020,East,Cleveland,하위팀,1,1,0,1.0,1-0,0-0
 2020-12-13,2020,West,New Orleans,중위팀,0,0,0,0.0,0-0,0-0
 2020-12-13,2020,West,Denver,상위팀,1,0,1,0.0,0-0,0-1
-2020-12-13,2020,West,L.A. Clippers,,2,0,2,0.0,0-0,0-2
+2020-12-13,2020,West,L.A. Clippers,상위팀,2,0,2,0.0,0-0,0-2
 2020-12-13,2020,West,Sacramento,중위팀,2,1,1,0.5,0-0,1-1
 2020-12-13,2020,West,Portland,중위팀,2,1,1,0.5,1-1,0-0
 2020-12-13,2020,West,Houston,하위팀,2,1,1,0.5,0-0,1-1
@@ -759,7 +759,7 @@ DATE,SEASON_ID,CONFERENCE,TEAM,TEAM_LVL,G,W,L,W_PCT,HOME_RECORD,ROAD_RECORD
 2020-12-14,2020,West,Houston,하위팀,2,1,1,0.5,0-0,1-1
 2020-12-14,2020,West,Portland,중위팀,2,1,1,0.5,1-1,0-0
 2020-12-14,2020,West,Sacramento,중위팀,2,1,1,0.5,0-0,1-1
-2020-12-14,2020,West,L.A. Clippers,,2,0,2,0.0,0-0,0-2
+2020-12-14,2020,West,L.A. Clippers,상위팀,2,0,2,0.0,0-0,0-2
 2020-12-14,2020,West,Minnesota,중위팀,2,0,2,0.0,0-2,0-0
 2020-12-14,2020,West,Utah,상위팀,2,2,0,1.0,2-0,0-0
 2020-12-14,2020,West,Denver,상위팀,1,0,1,0.0,0-0,0-1
@@ -787,7 +787,7 @@ DATE,SEASON_ID,CONFERENCE,TEAM,TEAM_LVL,G,W,L,W_PCT,HOME_RECORD,ROAD_RECORD
 2020-12-15,2020,West,Oklahoma City,하위팀,1,1,0,1.0,0-0,1-0
 2020-12-15,2020,West,Portland,중위팀,2,1,1,0.5,1-1,0-0
 2020-12-15,2020,West,Golden State,중위팀,2,1,1,0.5,1-0,0-1
-2020-12-15,2020,West,L.A. Clippers,,2,0,2,0.0,0-0,0-2
+2020-12-15,2020,West,L.A. Clippers,상위팀,2,0,2,0.0,0-0,0-2
 2020-12-15,2020,West,Minnesota,중위팀,2,0,2,0.0,0-2,0-0
 2020-12-15,2020,West,Phoenix,상위팀,2,0,2,0.0,0-0,0-2
 2020-12-15,2020,West,San Antonio,중위팀,2,0,2,0.0,0-1,0-1
@@ -810,7 +810,7 @@ DATE,SEASON_ID,CONFERENCE,TEAM,TEAM_LVL,G,W,L,W_PCT,HOME_RECORD,ROAD_RECORD
 2020-12-15,2020,East,Miami,상위팀,1,0,1,0.0,0-1,0-0
 2020-12-15,2020,East,New York,중위팀,2,1,1,0.5,0-0,1-1
 2020-12-16,2020,West,Minnesota,중위팀,2,0,2,0.0,0-2,0-0
-2020-12-16,2020,West,L.A. Clippers,,2,0,2,0.0,0-0,0-2
+2020-12-16,2020,West,L.A. Clippers,상위팀,2,0,2,0.0,0-0,0-2
 2020-12-16,2020,West,Phoenix,상위팀,3,0,3,0.0,0-1,0-2
 2020-12-16,2020,West,Portland,중위팀,3,1,2,0.333,1-1,0-1
 2020-12-16,2020,West,Oklahoma City,하위팀,2,1,1,0.5,0-1,1-0
@@ -848,7 +848,7 @@ DATE,SEASON_ID,CONFERENCE,TEAM,TEAM_LVL,G,W,L,W_PCT,HOME_RECORD,ROAD_RECORD
 2020-12-17,2020,West,Portland,중위팀,3,1,2,0.333,1-1,0-1
 2020-12-17,2020,West,Oklahoma City,하위팀,2,1,1,0.5,0-1,1-0
 2020-12-17,2020,West,Minnesota,중위팀,3,1,2,0.333,0-2,1-0
-2020-12-17,2020,West,L.A. Clippers,,3,0,3,0.0,0-1,0-2
+2020-12-17,2020,West,L.A. Clippers,상위팀,3,0,3,0.0,0-1,0-2
 2020-12-17,2020,West,Phoenix,상위팀,3,0,3,0.0,0-1,0-2
 2020-12-17,2020,West,San Antonio,중위팀,3,0,3,0.0,0-1,0-2
 2020-12-17,2020,West,Memphis,중위팀,3,3,0,1.0,1-0,2-0
@@ -882,7 +882,7 @@ DATE,SEASON_ID,CONFERENCE,TEAM,TEAM_LVL,G,W,L,W_PCT,HOME_RECORD,ROAD_RECORD
 2020-12-18,2020,West,Portland,중위팀,4,1,3,0.25,1-1,0-2
 2020-12-18,2020,West,Phoenix,상위팀,4,0,4,0.0,0-2,0-2
 2020-12-18,2020,West,San Antonio,중위팀,3,0,3,0.0,0-1,0-2
-2020-12-18,2020,West,L.A. Clippers,,3,0,3,0.0,0-1,0-2
+2020-12-18,2020,West,L.A. Clippers,상위팀,3,0,3,0.0,0-1,0-2
 2020-12-18,2020,East,Brooklyn,중위팀,2,2,0,1.0,1-0,1-0
 2020-12-18,2020,East,Philadelphia,상위팀,2,2,0,1.0,1-0,1-0
 2020-12-18,2020,East,Washington,중위팀,2,0,2,0.0,0-1,0-1
@@ -913,7 +913,7 @@ DATE,SEASON_ID,CONFERENCE,TEAM,TEAM_LVL,G,W,L,W_PCT,HOME_RECORD,ROAD_RECORD
 2020-12-19,2020,West,New Orleans,중위팀,2,2,0,1.0,1-0,1-0
 2020-12-19,2020,West,Utah,상위팀,3,3,0,1.0,2-0,1-0
 2020-12-19,2020,East,Brooklyn,중위팀,2,2,0,1.0,1-0,1-0
-2020-12-19,2020,West,L.A. Clippers,,3,0,3,0.0,0-1,0-2
+2020-12-19,2020,West,L.A. Clippers,상위팀,3,0,3,0.0,0-1,0-2
 2020-12-19,2020,East,Philadelphia,상위팀,2,2,0,1.0,1-0,1-0
 2020-12-19,2020,East,Chicago,중위팀,4,3,1,0.75,1-1,2-0
 2020-12-19,2020,East,New York,중위팀,4,3,1,0.75,2-0,1-1
@@ -933,7 +933,7 @@ DATE,SEASON_ID,CONFERENCE,TEAM,TEAM_LVL,G,W,L,W_PCT,HOME_RECORD,ROAD_RECORD
 2021-10-03,2021,West,Denver,상위팀,0,0,0,0.0,0-0,0-0
 2021-10-03,2021,West,Golden State,중위팀,0,0,0,0.0,0-0,0-0
 2021-10-03,2021,West,Houston,하위팀,0,0,0,0.0,0-0,0-0
-2021-10-03,2021,West,L.A. Clippers,,0,0,0,0.0,0-0,0-0
+2021-10-03,2021,West,L.A. Clippers,상위팀,0,0,0,0.0,0-0,0-0
 2021-10-03,2021,West,Memphis,중위팀,0,0,0,0.0,0-0,0-0
 2021-10-03,2021,West,Minnesota,중위팀,0,0,0,0.0,0-0,0-0
 2021-10-03,2021,West,New Orleans,중위팀,0,0,0,0.0,0-0,0-0
@@ -985,7 +985,7 @@ DATE,SEASON_ID,CONFERENCE,TEAM,TEAM_LVL,G,W,L,W_PCT,HOME_RECORD,ROAD_RECORD
 2021-10-04,2021,East,Detroit,하위팀,0,0,0,0.0,0-0,0-0
 2021-10-04,2021,East,Indiana,중위팀,0,0,0,0.0,0-0,0-0
 2021-10-04,2021,East,Milwaukee,상위팀,0,0,0,0.0,0-0,0-0
-2021-10-04,2021,West,L.A. Clippers,,1,1,0,1.0,1-0,0-0
+2021-10-04,2021,West,L.A. Clippers,상위팀,1,1,0,1.0,1-0,0-0
 2021-10-04,2021,West,Golden State,중위팀,1,1,0,1.0,0-0,1-0
 2021-10-04,2021,West,New Orleans,중위팀,1,0,1,0.0,0-0,0-1
 2021-10-04,2021,East,Washington,중위팀,0,0,0,0.0,0-0,0-0
@@ -1015,7 +1015,7 @@ DATE,SEASON_ID,CONFERENCE,TEAM,TEAM_LVL,G,W,L,W_PCT,HOME_RECORD,ROAD_RECORD
 2021-10-05,2021,East,Toronto,중위팀,1,1,0,1.0,1-0,0-0
 2021-10-05,2021,West,Minnesota,중위팀,1,1,0,1.0,1-0,0-0
 2021-10-05,2021,West,Memphis,중위팀,1,1,0,1.0,1-0,0-0
-2021-10-05,2021,West,L.A. Clippers,,1,1,0,1.0,1-0,0-0
+2021-10-05,2021,West,L.A. Clippers,상위팀,1,1,0,1.0,1-0,0-0
 2021-10-05,2021,West,Houston,하위팀,1,1,0,1.0,1-0,0-0
 2021-10-05,2021,West,Golden State,중위팀,1,1,0,1.0,0-0,1-0
 2021-10-05,2021,West,Sacramento,중위팀,1,1,0,1.0,1-0,0-0
@@ -1048,11 +1048,11 @@ DATE,SEASON_ID,CONFERENCE,TEAM,TEAM_LVL,G,W,L,W_PCT,HOME_RECORD,ROAD_RECORD
 2021-10-06,2021,West,Memphis,중위팀,1,1,0,1.0,1-0,0-0
 2021-10-06,2021,West,Houston,하위팀,1,1,0,1.0,1-0,0-0
 2021-10-06,2021,West,Dallas,중위팀,1,1,0,1.0,1-0,0-0
-2021-10-06,2021,West,L.A. Clippers,,2,1,1,0.5,1-1,0-0
+2021-10-06,2021,West,L.A. Clippers,상위팀,2,1,1,0.5,1-1,0-0
 2021-10-07,2021,West,Phoenix,상위팀,2,1,1,0.5,1-0,0-1
 2021-10-07,2021,West,Houston,하위팀,2,1,1,0.5,1-1,0-0
 2021-10-07,2021,West,Minnesota,중위팀,1,1,0,1.0,1-0,0-0
-2021-10-07,2021,West,L.A. Clippers,,2,1,1,0.5,1-1,0-0
+2021-10-07,2021,West,L.A. Clippers,상위팀,2,1,1,0.5,1-1,0-0
 2021-10-07,2021,West,New Orleans,중위팀,2,1,1,0.5,1-0,0-1
 2021-10-07,2021,West,San Antonio,중위팀,2,1,1,0.5,1-0,0-1
 2021-10-07,2021,East,Orlando,하위팀,2,0,2,0.0,0-0,0-2
@@ -1099,7 +1099,7 @@ DATE,SEASON_ID,CONFERENCE,TEAM,TEAM_LVL,G,W,L,W_PCT,HOME_RECORD,ROAD_RECORD
 2021-10-08,2021,West,Golden State,중위팀,3,3,0,1.0,2-0,1-0
 2021-10-08,2021,West,San Antonio,중위팀,3,1,2,0.333,1-1,0-1
 2021-10-08,2021,West,New Orleans,중위팀,3,1,2,0.333,1-0,0-2
-2021-10-08,2021,West,L.A. Clippers,,3,1,2,0.333,1-1,0-1
+2021-10-08,2021,West,L.A. Clippers,상위팀,3,1,2,0.333,1-1,0-1
 2021-10-08,2021,West,Phoenix,상위팀,2,1,1,0.5,1-0,0-1
 2021-10-08,2021,West,Houston,하위팀,2,1,1,0.5,1-1,0-0
 2021-10-08,2021,West,Sacramento,중위팀,2,2,0,1.0,1-0,1-0
@@ -1130,7 +1130,7 @@ DATE,SEASON_ID,CONFERENCE,TEAM,TEAM_LVL,G,W,L,W_PCT,HOME_RECORD,ROAD_RECORD
 2021-10-09,2021,West,Denver,상위팀,3,0,3,0.0,0-1,0-2
 2021-10-09,2021,West,San Antonio,중위팀,3,1,2,0.333,1-1,0-1
 2021-10-09,2021,West,New Orleans,중위팀,3,1,2,0.333,1-0,0-2
-2021-10-09,2021,West,L.A. Clippers,,3,1,2,0.333,1-1,0-1
+2021-10-09,2021,West,L.A. Clippers,상위팀,3,1,2,0.333,1-1,0-1
 2021-10-09,2021,East,Toronto,중위팀,3,1,2,0.333,1-0,0-2
 2021-10-09,2021,West,Houston,하위팀,2,1,1,0.5,1-1,0-0
 2021-10-09,2021,West,Memphis,중위팀,3,2,1,0.667,1-1,1-0
@@ -1161,7 +1161,7 @@ DATE,SEASON_ID,CONFERENCE,TEAM,TEAM_LVL,G,W,L,W_PCT,HOME_RECORD,ROAD_RECORD
 2021-10-10,2021,West,Oklahoma City,하위팀,2,0,2,0.0,0-1,0-1
 2021-10-10,2021,West,Denver,상위팀,3,0,3,0.0,0-1,0-2
 2021-10-10,2021,West,New Orleans,중위팀,3,1,2,0.333,1-0,0-2
-2021-10-10,2021,West,L.A. Clippers,,3,1,2,0.333,1-1,0-1
+2021-10-10,2021,West,L.A. Clippers,상위팀,3,1,2,0.333,1-1,0-1
 2021-10-10,2021,West,L.A. Lakers,중위팀,4,0,4,0.0,0-2,0-2
 2021-10-10,2021,West,San Antonio,중위팀,4,2,2,0.5,1-1,1-1
 2021-10-10,2021,West,Phoenix,상위팀,3,2,1,0.667,1-0,1-1
@@ -1192,7 +1192,7 @@ DATE,SEASON_ID,CONFERENCE,TEAM,TEAM_LVL,G,W,L,W_PCT,HOME_RECORD,ROAD_RECORD
 2021-10-11,2021,East,Washington,중위팀,2,0,2,0.0,0-1,0-1
 2021-10-11,2021,West,Houston,하위팀,3,1,2,0.333,1-1,0-1
 2021-10-11,2021,West,Utah,상위팀,3,1,2,0.333,1-0,0-2
-2021-10-11,2021,West,L.A. Clippers,,4,1,3,0.25,1-2,0-1
+2021-10-11,2021,West,L.A. Clippers,상위팀,4,1,3,0.25,1-2,0-1
 2021-10-11,2021,West,New Orleans,중위팀,4,1,3,0.25,1-0,0-3
 2021-10-11,2021,West,L.A. Lakers,중위팀,4,0,4,0.0,0-2,0-2
 2021-10-11,2021,West,Denver,상위팀,3,0,3,0.0,0-1,0-2
@@ -1216,7 +1216,7 @@ DATE,SEASON_ID,CONFERENCE,TEAM,TEAM_LVL,G,W,L,W_PCT,HOME_RECORD,ROAD_RECORD
 2021-10-12,2021,West,San Antonio,중위팀,4,2,2,0.5,1-1,1-1
 2021-10-12,2021,East,Charlotte,중위팀,3,1,2,0.333,0-1,1-1
 2021-10-12,2021,West,Houston,하위팀,3,1,2,0.333,1-1,0-1
-2021-10-12,2021,West,L.A. Clippers,,4,1,3,0.25,1-2,0-1
+2021-10-12,2021,West,L.A. Clippers,상위팀,4,1,3,0.25,1-2,0-1
 2021-10-12,2021,West,New Orleans,중위팀,4,1,3,0.25,1-0,0-3
 2021-10-12,2021,West,L.A. Lakers,중위팀,5,0,5,0.0,0-3,0-2
 2021-10-12,2021,West,Denver,상위팀,3,0,3,0.0,0-1,0-2
@@ -1248,7 +1248,7 @@ DATE,SEASON_ID,CONFERENCE,TEAM,TEAM_LVL,G,W,L,W_PCT,HOME_RECORD,ROAD_RECORD
 2021-10-13,2021,West,Portland,중위팀,3,0,3,0.0,0-2,0-1
 2021-10-13,2021,West,L.A. Lakers,중위팀,5,0,5,0.0,0-3,0-2
 2021-10-13,2021,West,New Orleans,중위팀,4,1,3,0.25,1-0,0-3
-2021-10-13,2021,West,L.A. Clippers,,4,1,3,0.25,1-2,0-1
+2021-10-13,2021,West,L.A. Clippers,상위팀,4,1,3,0.25,1-2,0-1
 2021-10-13,2021,West,Houston,하위팀,3,1,2,0.333,1-1,0-1
 2021-10-13,2021,West,Utah,상위팀,4,2,2,0.5,2-0,0-2
 2021-10-13,2021,West,San Antonio,중위팀,4,2,2,0.5,1-1,1-1
@@ -1277,7 +1277,7 @@ DATE,SEASON_ID,CONFERENCE,TEAM,TEAM_LVL,G,W,L,W_PCT,HOME_RECORD,ROAD_RECORD
 2021-10-14,2021,West,San Antonio,중위팀,4,2,2,0.5,1-1,1-1
 2021-10-14,2021,West,Utah,상위팀,4,2,2,0.5,2-0,0-2
 2021-10-14,2021,East,Atlanta,중위팀,4,2,2,0.5,1-1,1-1
-2021-10-14,2021,West,L.A. Clippers,,4,1,3,0.25,1-2,0-1
+2021-10-14,2021,West,L.A. Clippers,상위팀,4,1,3,0.25,1-2,0-1
 2021-10-14,2021,West,Houston,하위팀,3,1,2,0.333,1-1,0-1
 2021-10-14,2021,West,Oklahoma City,하위팀,4,1,3,0.25,1-2,0-1
 2021-10-14,2021,East,Chicago,중위팀,3,3,0,1.0,2-0,1-0
@@ -1309,7 +1309,7 @@ DATE,SEASON_ID,CONFERENCE,TEAM,TEAM_LVL,G,W,L,W_PCT,HOME_RECORD,ROAD_RECORD
 2021-10-15,2021,East,Cleveland,하위팀,5,2,3,0.4,0-2,2-1
 2021-10-15,2021,East,Charlotte,중위팀,4,1,3,0.25,0-2,1-1
 2021-10-15,2021,East,Orlando,하위팀,4,1,3,0.25,1-1,0-2
-2021-10-15,2021,West,L.A. Clippers,,4,1,3,0.25,1-2,0-1
+2021-10-15,2021,West,L.A. Clippers,상위팀,4,1,3,0.25,1-2,0-1
 2021-10-15,2021,West,New Orleans,중위팀,4,1,3,0.25,1-0,0-3
 2021-10-15,2021,West,Utah,상위팀,4,2,2,0.5,2-0,0-2
 2021-10-15,2021,West,Houston,하위팀,4,1,3,0.25,1-1,0-2
@@ -1335,7 +1335,7 @@ DATE,SEASON_ID,CONFERENCE,TEAM,TEAM_LVL,G,W,L,W_PCT,HOME_RECORD,ROAD_RECORD
 2022-09-30,2022,East,Toronto,중위팀,0,0,0,0.0,0-0,0-0
 2022-09-30,2022,East,Philadelphia,상위팀,0,0,0,0.0,0-0,0-0
 2022-09-30,2022,West,Utah,상위팀,0,0,0,0.0,0-0,0-0
-2022-09-30,2022,West,L.A. Clippers,,1,1,0,1.0,1-0,0-0
+2022-09-30,2022,West,L.A. Clippers,상위팀,1,1,0,1.0,1-0,0-0
 2022-09-30,2022,West,Dallas,중위팀,0,0,0,0.0,0-0,0-0
 2022-09-30,2022,West,Denver,상위팀,0,0,0,0.0,0-0,0-0
 2022-09-30,2022,West,Houston,하위팀,0,0,0,0.0,0-0,0-0
@@ -1375,7 +1375,7 @@ DATE,SEASON_ID,CONFERENCE,TEAM,TEAM_LVL,G,W,L,W_PCT,HOME_RECORD,ROAD_RECORD
 2022-10-01,2022,East,Atlanta,중위팀,0,0,0,0.0,0-0,0-0
 2022-10-01,2022,East,Washington,중위팀,1,0,1,0.0,0-1,0-0
 2022-10-01,2022,East,Milwaukee,상위팀,1,0,1,0.0,0-1,0-0
-2022-10-01,2022,West,L.A. Clippers,,1,1,0,1.0,1-0,0-0
+2022-10-01,2022,West,L.A. Clippers,상위팀,1,1,0,1.0,1-0,0-0
 2022-10-01,2022,East,Orlando,하위팀,0,0,0,0.0,0-0,0-0
 2022-10-01,2022,East,Toronto,중위팀,0,0,0,0.0,0-0,0-0
 2022-10-01,2022,West,New Orleans,중위팀,0,0,0,0.0,0-0,0-0
@@ -1401,7 +1401,7 @@ DATE,SEASON_ID,CONFERENCE,TEAM,TEAM_LVL,G,W,L,W_PCT,HOME_RECORD,ROAD_RECORD
 2022-10-02,2022,West,San Antonio,중위팀,1,0,1,0.0,0-0,0-1
 2022-10-02,2022,West,Phoenix,상위팀,1,0,1,0.0,0-1,0-0
 2022-10-02,2022,West,Memphis,중위팀,1,1,0,1.0,0-0,1-0
-2022-10-02,2022,West,L.A. Clippers,,1,1,0,1.0,1-0,0-0
+2022-10-02,2022,West,L.A. Clippers,상위팀,1,1,0,1.0,1-0,0-0
 2022-10-02,2022,West,Houston,하위팀,1,1,0,1.0,1-0,0-0
 2022-10-02,2022,East,Toronto,중위팀,1,1,0,1.0,1-0,0-0
 2022-10-02,2022,East,Boston,중위팀,1,1,0,1.0,1-0,0-0
@@ -1410,7 +1410,7 @@ DATE,SEASON_ID,CONFERENCE,TEAM,TEAM_LVL,G,W,L,W_PCT,HOME_RECORD,ROAD_RECORD
 2022-10-02,2022,West,Sacramento,중위팀,0,0,0,0.0,0-0,0-0
 2022-10-02,2022,West,Portland,중위팀,0,0,0,0.0,0-0,0-0
 2022-10-03,2022,West,Golden State,중위팀,2,2,0,1.0,1-0,1-0
-2022-10-03,2022,West,L.A. Clippers,,2,2,0,1.0,2-0,0-0
+2022-10-03,2022,West,L.A. Clippers,상위팀,2,2,0,1.0,2-0,0-0
 2022-10-03,2022,West,Memphis,중위팀,2,2,0,1.0,1-0,1-0
 2022-10-03,2022,West,Houston,하위팀,1,1,0,1.0,1-0,0-0
 2022-10-03,2022,West,Oklahoma City,하위팀,1,1,0,1.0,0-0,1-0
@@ -1463,7 +1463,7 @@ DATE,SEASON_ID,CONFERENCE,TEAM,TEAM_LVL,G,W,L,W_PCT,HOME_RECORD,ROAD_RECORD
 2022-10-04,2022,West,Minnesota,중위팀,1,1,0,1.0,0-0,1-0
 2022-10-04,2022,West,Houston,하위팀,1,1,0,1.0,1-0,0-0
 2022-10-04,2022,West,Memphis,중위팀,2,2,0,1.0,1-0,1-0
-2022-10-04,2022,West,L.A. Clippers,,2,2,0,1.0,2-0,0-0
+2022-10-04,2022,West,L.A. Clippers,상위팀,2,2,0,1.0,2-0,0-0
 2022-10-04,2022,West,Portland,중위팀,2,0,2,0.0,0-1,0-1
 2022-10-04,2022,West,Golden State,중위팀,2,2,0,1.0,1-0,1-0
 2022-10-04,2022,West,L.A. Lakers,중위팀,1,0,1,0.0,0-1,0-0
@@ -1496,7 +1496,7 @@ DATE,SEASON_ID,CONFERENCE,TEAM,TEAM_LVL,G,W,L,W_PCT,HOME_RECORD,ROAD_RECORD
 2022-10-05,2022,West,Houston,하위팀,1,1,0,1.0,1-0,0-0
 2022-10-05,2022,West,Dallas,중위팀,1,1,0,1.0,0-0,1-0
 2022-10-05,2022,West,Memphis,중위팀,2,2,0,1.0,1-0,1-0
-2022-10-05,2022,West,L.A. Clippers,,2,2,0,1.0,2-0,0-0
+2022-10-05,2022,West,L.A. Clippers,상위팀,2,2,0,1.0,2-0,0-0
 2022-10-05,2022,West,Golden State,중위팀,2,2,0,1.0,1-0,1-0
 2022-10-05,2022,West,Minnesota,중위팀,1,1,0,1.0,0-0,1-0
 2022-10-06,2022,East,Detroit,하위팀,1,0,1,0.0,0-0,0-1
@@ -1512,7 +1512,7 @@ DATE,SEASON_ID,CONFERENCE,TEAM,TEAM_LVL,G,W,L,W_PCT,HOME_RECORD,ROAD_RECORD
 2022-10-06,2022,East,New York,중위팀,1,1,0,1.0,1-0,0-0
 2022-10-06,2022,East,Indiana,중위팀,1,1,0,1.0,0-0,1-0
 2022-10-06,2022,East,Charlotte,중위팀,2,0,2,0.0,0-1,0-1
-2022-10-06,2022,West,L.A. Clippers,,2,2,0,1.0,2-0,0-0
+2022-10-06,2022,West,L.A. Clippers,상위팀,2,2,0,1.0,2-0,0-0
 2022-10-06,2022,East,Toronto,중위팀,2,2,0,1.0,1-0,1-0
 2022-10-06,2022,West,Minnesota,중위팀,2,2,0,1.0,0-0,2-0
 2022-10-06,2022,East,Atlanta,중위팀,1,1,0,1.0,1-0,0-0
@@ -1554,14 +1554,14 @@ DATE,SEASON_ID,CONFERENCE,TEAM,TEAM_LVL,G,W,L,W_PCT,HOME_RECORD,ROAD_RECORD
 2022-10-07,2022,West,Sacramento,중위팀,1,1,0,1.0,0-0,1-0
 2022-10-07,2022,West,New Orleans,중위팀,2,2,0,1.0,1-0,1-0
 2022-10-07,2022,West,Minnesota,중위팀,2,2,0,1.0,0-0,2-0
-2022-10-07,2022,West,L.A. Clippers,,2,2,0,1.0,2-0,0-0
+2022-10-07,2022,West,L.A. Clippers,상위팀,2,2,0,1.0,2-0,0-0
 2022-10-07,2022,West,Houston,하위팀,2,2,0,1.0,2-0,0-0
 2022-10-07,2022,East,Philadelphia,상위팀,2,2,0,1.0,1-0,1-0
 2022-10-07,2022,East,New York,중위팀,2,2,0,1.0,2-0,0-0
 2022-10-07,2022,East,Chicago,중위팀,2,1,1,0.5,1-1,0-0
 2022-10-08,2022,East,Washington,중위팀,2,0,2,0.0,0-1,0-1
 2022-10-08,2022,West,Houston,하위팀,2,2,0,1.0,2-0,0-0
-2022-10-08,2022,West,L.A. Clippers,,2,2,0,1.0,2-0,0-0
+2022-10-08,2022,West,L.A. Clippers,상위팀,2,2,0,1.0,2-0,0-0
 2022-10-08,2022,West,Minnesota,중위팀,2,2,0,1.0,0-0,2-0
 2022-10-08,2022,West,New Orleans,중위팀,2,2,0,1.0,1-0,1-0
 2022-10-08,2022,West,Sacramento,중위팀,1,1,0,1.0,0-0,1-0
@@ -1599,7 +1599,7 @@ DATE,SEASON_ID,CONFERENCE,TEAM,TEAM_LVL,G,W,L,W_PCT,HOME_RECORD,ROAD_RECORD
 2022-10-09,2022,West,Oklahoma City,하위팀,4,3,1,0.75,2-1,1-0
 2022-10-09,2022,West,Utah,상위팀,2,1,1,0.5,0-0,1-1
 2022-10-09,2022,West,Golden State,중위팀,3,2,1,0.667,1-1,1-0
-2022-10-09,2022,West,L.A. Clippers,,3,2,1,0.667,2-1,0-0
+2022-10-09,2022,West,L.A. Clippers,상위팀,3,2,1,0.667,2-1,0-0
 2022-10-09,2022,West,Memphis,중위팀,3,2,1,0.667,1-1,1-0
 2022-10-09,2022,West,Dallas,중위팀,2,1,1,0.5,0-1,1-0
 2022-10-09,2022,West,Phoenix,상위팀,2,1,1,0.5,0-1,1-0
@@ -1640,7 +1640,7 @@ DATE,SEASON_ID,CONFERENCE,TEAM,TEAM_LVL,G,W,L,W_PCT,HOME_RECORD,ROAD_RECORD
 2022-10-10,2022,East,Philadelphia,상위팀,3,3,0,1.0,1-0,2-0
 2022-10-10,2022,East,Atlanta,중위팀,2,2,0,1.0,1-0,1-0
 2022-10-10,2022,West,Memphis,중위팀,3,2,1,0.667,1-1,1-0
-2022-10-10,2022,West,L.A. Clippers,,3,2,1,0.667,2-1,0-0
+2022-10-10,2022,West,L.A. Clippers,상위팀,3,2,1,0.667,2-1,0-0
 2022-10-10,2022,West,Denver,상위팀,3,1,2,0.333,1-1,0-1
 2022-10-10,2022,West,Golden State,중위팀,3,2,1,0.667,1-1,1-0
 2022-10-10,2022,West,Houston,하위팀,3,2,1,0.667,2-0,0-1
@@ -1655,7 +1655,7 @@ DATE,SEASON_ID,CONFERENCE,TEAM,TEAM_LVL,G,W,L,W_PCT,HOME_RECORD,ROAD_RECORD
 2022-10-11,2022,West,Oklahoma City,하위팀,5,4,1,0.8,2-1,2-0
 2022-10-11,2022,West,Golden State,중위팀,4,3,1,0.75,2-1,1-0
 2022-10-11,2022,West,Houston,하위팀,3,2,1,0.667,2-0,0-1
-2022-10-11,2022,West,L.A. Clippers,,3,2,1,0.667,2-1,0-0
+2022-10-11,2022,West,L.A. Clippers,상위팀,3,2,1,0.667,2-1,0-0
 2022-10-11,2022,West,Memphis,중위팀,4,2,2,0.5,1-1,1-1
 2022-10-11,2022,West,Dallas,중위팀,2,1,1,0.5,0-1,1-0
 2022-10-11,2022,West,Denver,상위팀,3,1,2,0.333,1-1,0-1
@@ -1695,7 +1695,7 @@ DATE,SEASON_ID,CONFERENCE,TEAM,TEAM_LVL,G,W,L,W_PCT,HOME_RECORD,ROAD_RECORD
 2022-10-12,2022,East,Miami,상위팀,5,4,1,0.8,2-1,2-0
 2022-10-12,2022,West,Dallas,중위팀,2,1,1,0.5,0-1,1-0
 2022-10-12,2022,West,Memphis,중위팀,4,2,2,0.5,1-1,1-1
-2022-10-12,2022,West,L.A. Clippers,,4,2,2,0.5,2-2,0-0
+2022-10-12,2022,West,L.A. Clippers,상위팀,4,2,2,0.5,2-2,0-0
 2022-10-12,2022,West,Denver,상위팀,4,2,2,0.5,1-1,1-1
 2022-10-12,2022,West,Houston,하위팀,3,2,1,0.667,2-0,0-1
 2022-10-12,2022,West,New Orleans,중위팀,4,3,1,0.75,1-0,2-1
@@ -1715,7 +1715,7 @@ DATE,SEASON_ID,CONFERENCE,TEAM,TEAM_LVL,G,W,L,W_PCT,HOME_RECORD,ROAD_RECORD
 2022-10-13,2022,West,Houston,하위팀,3,2,1,0.667,2-0,0-1
 2022-10-13,2022,West,Memphis,중위팀,5,3,2,0.6,1-1,2-1
 2022-10-13,2022,East,Cleveland,하위팀,3,1,2,0.333,1-1,0-1
-2022-10-13,2022,West,L.A. Clippers,,4,2,2,0.5,2-2,0-0
+2022-10-13,2022,West,L.A. Clippers,상위팀,4,2,2,0.5,2-2,0-0
 2022-10-13,2022,West,Dallas,중위팀,2,1,1,0.5,0-1,1-0
 2022-10-13,2022,West,Utah,상위팀,3,1,2,0.333,0-1,1-1
 2022-10-13,2022,West,Phoenix,상위팀,4,1,3,0.25,0-2,1-1
@@ -1749,7 +1749,7 @@ DATE,SEASON_ID,CONFERENCE,TEAM,TEAM_LVL,G,W,L,W_PCT,HOME_RECORD,ROAD_RECORD
 2022-10-14,2022,West,Denver,상위팀,5,3,2,0.6,1-1,2-1
 2022-10-14,2022,West,Golden State,중위팀,5,3,2,0.6,2-2,1-0
 2022-10-14,2022,West,Memphis,중위팀,5,3,2,0.6,1-1,2-1
-2022-10-14,2022,West,L.A. Clippers,,4,2,2,0.5,2-2,0-0
+2022-10-14,2022,West,L.A. Clippers,상위팀,4,2,2,0.5,2-2,0-0
 2022-10-14,2022,West,Phoenix,상위팀,4,1,3,0.25,0-2,1-1
 2022-10-14,2022,West,Utah,상위팀,4,1,3,0.25,0-2,1-1
 2022-10-14,2022,West,Portland,중위팀,5,1,4,0.2,1-1,0-3
