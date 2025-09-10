@@ -42,13 +42,19 @@ PANDAS_KWARGS = {
         # 메모리 효율적 읽기
         'memory_map': True,
     },
+    'players': {
+        
+    },
+    'teams': {
+        
+    },
     'games_details_pre': {
-        'dtype': {'START_POSITION': 'category', 'TEAM': 'category', 'TEAM_LVL': 'category'},
+        'dtype': {'START_POSITION': 'category', 'TEAM': 'category', 'TEAM_LVL': 'category', 'PLAYER_ID': str},
         'memory_map': True,
         'index_col': 'DATE'
     },
     'games_details_regular': {
-        'dtype': {'START_POSITION': 'category', 'TEAM': 'category', 'TEAM_LVL': 'category'},
+        'dtype': {'START_POSITION': 'category', 'TEAM': 'category', 'TEAM_LVL': 'category', 'PLAYER_ID': str},
         'memory_map': True,
         'index_col': 'DATE'
     },
