@@ -50,33 +50,27 @@ PANDAS_KWARGS = {
     },
     'games_details_pre': {
         'dtype': {'START_POSITION': 'category', 'TEAM': 'category', 'TEAM_LVL': 'category', 'PLAYER_ID': str},
-        'memory_map': True,
-        'index_col': 'DATE'
+        'memory_map': True
     },
     'games_details_regular': {
         'dtype': {'START_POSITION': 'category', 'TEAM': 'category', 'TEAM_LVL': 'category', 'PLAYER_ID': str},
-        'memory_map': True,
-        'index_col': 'DATE'
+        'memory_map': True
     },
     'games_pre': {
         'dtype': {'HOME_TEAM': 'category', 'HOME_TEAM_LVL': 'category', 'VISITOR_TEAM': 'category', 'VISITOR_TEAM_LVL': 'category'},
-        'memory_map': True,
-        'index_col': 'DATE'
+        'memory_map': True
     },
     'games_regular': {
         'dtype': {'HOME_TEAM': 'category', 'HOME_TEAM_LVL': 'category', 'VISITOR_TEAM': 'category', 'VISITOR_TEAM_LVL': 'category'},
-        'memory_map': True,
-        'index_col': 'DATE'
+        'memory_map': True
     },
     'ranking_pre': {
         'dtype': {'CONFERENCE': 'category', 'TEAM': 'category', 'TEAM_LVL': 'category'},
-        'memory_map': True,
-        'index_col': 'DATE'
+        'memory_map': True
     },
     'ranking_regular': {
         'dtype': {'CONFERENCE': 'category', 'TEAM': 'category', 'TEAM_LVL': 'category'},
-        'memory_map': True,
-        'index_col': 'DATE'
+        'memory_map': True
     }
 }
 
