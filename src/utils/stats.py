@@ -12,9 +12,6 @@ class BasketballStatsCalculator:
         
         # 사용 가능한 파생 변수 매핑
         self.stats_map = {
-            'FG%': self._fg_pct,
-            '3P%': self._3p_pct,
-            'FT%': self._ft_pct,
             'eFG%': self._efg_pct,
             'TS%': self._ts_pct,
             'USG%': self._usg_pct,
@@ -83,19 +80,6 @@ class BasketballStatsCalculator:
             )
     
     # ========== 슈팅 파생 변수 ==========
-    
-    def _fg_pct(self) -> pd.Series:
-        """필드골 성공률"""
-        return self._calc_pct('FGM', 'FGA')
-    
-    def _3p_pct(self) -> pd.Series:
-        """3점슛 성공률"""
-        return self._calc_pct('FG3M', 'FG3A')
-    
-    def _ft_pct(self) -> pd.Series:
-        """자유투 성공률"""
-        return self._calc_pct('FTM', 'FTA')
-    
     def _efg_pct(self) -> pd.Series:
         """효과적인 필드골 성공률"""
         made = self.data['FGM'] + 0.5 * self.data['FG3M']
@@ -157,12 +141,3 @@ class BasketballStatsCalculator:
         player_poss = self._poss()
         ppp = (self.data['PTS'] / player_poss).mask(player_poss <= 0)
         return ppp.round(2)
-    
-    # ========== 헬퍼 함수 ==========
-    
-    def _calc_pct(self, made_col: str, attempt_col: str) -> pd.Series:
-        """기본 퍼센트 비율 계산"""
-        pct = (
-            self.data[made_col] / self.data[attempt_col] * 100
-        ).mask(self.data[attempt_col] <= 0)
-        return pct.round(1)
